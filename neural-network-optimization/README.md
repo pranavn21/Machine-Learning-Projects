@@ -23,7 +23,7 @@ How to run: This is a python code genertated with Google Colab Python notebooks.
 
 If you are running via an IDE, then make sure that Python is installed and simply press Run.
 
-# Part 2
+---
 
-Libraries utilized: 
+# Libraries utilized:
 Pandas, Numpy, Matplotlib, Sklearn (sci-kit learn)
