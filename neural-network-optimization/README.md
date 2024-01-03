@@ -1,5 +1,5 @@
 # Pranav Nair
-# Assignment 2
+# Neural Network Optimization
 
 Link to dataset used: https://archive.ics.uci.edu/dataset/73/mushroom 
 
