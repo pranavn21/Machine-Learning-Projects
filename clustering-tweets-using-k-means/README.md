@@ -25,11 +25,17 @@ IMPORTANT: Make sure that you have the goodhealth.txt file in the same directory
 # Report
 ![image](https://github.com/pranavn21/Machine-Learning-Projects/assets/72369124/e0fce21c-3c15-485c-885e-526cda78ce40)
 
+_Note: SSE is the sum of squared error, where K is the number of clusters and mi is the centroid of the ith cluster and can be defined as:_
+
+![image](https://github.com/pranavn21/Machine-Learning-Projects/assets/72369124/7a5dee3b-23b5-4bb1-afe0-80e555634927)
+
 ---
 
 # References
-[Wikipedia - Jaccard Distance](http://en.wikipedia.org/wiki/Jaccard_index)
-[Dataset UCI Direct Source Link](https://archive.ics.uci.edu/ml/datasets/Health+News+in+Twitter)
+
+- [Wikipedia - Jaccard Distance](http://en.wikipedia.org/wiki/Jaccard_index)
+
+- [Dataset UCI Direct Source Link](https://archive.ics.uci.edu/ml/datasets/Health+News+in+Twitter)
 
 
 ---
