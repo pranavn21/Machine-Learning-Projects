@@ -17,7 +17,16 @@ How to run: This is a python code genertated with Google Colab Python notebooks.
 If you are running via an IDE, then make sure that Python is installed and simply press Run. 
 IMPORTANT: Make sure that you have the goodhealth.txt file in the same directory as the .py file.
 
-# Part 2
+--- 
+
+# Report
+![image](https://github.com/pranavn21/Machine-Learning-Projects/assets/72369124/e0fce21c-3c15-485c-885e-526cda78ce40)
+
+---
+
+# References
+[Wikipedia - Jaccard Distance](http://en.wikipedia.org/wiki/Jaccard_index)
+[Dataset Link](https://archive.ics.uci.edu/ml/datasets/Health+News+in+Twitter)
 
 Libraries utilized:
 re — Regular expression operations
