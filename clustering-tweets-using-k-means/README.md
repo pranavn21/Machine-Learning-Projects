@@ -12,10 +12,13 @@ I created this program by:
 
 - Performed K-means clustering on the resulting tweets using at least 5 different values of K & reported my results in a table.
 
-How to run: This is a python code genertated with Google Colab Python notebooks. Ensure you are in the proper directory if using a terminal and run the following command: python kmeans-run.py
+---
+
+How to run: This is a python code generated with Google Colab Python notebooks. Ensure you are in the proper directory if using a terminal and run the following command: python kmeans-run.py
 
 If you are running via an IDE, then make sure that Python is installed and simply press Run. 
-IMPORTANT: Make sure that you have the goodhealth.txt file in the same directory as the .py file.
+
+IMPORTANT: Make sure that you have the goodhealth.txt file in the same directory as the .py file. Link to the dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/Health+News+in+Twitter).
 
 --- 
 
@@ -26,7 +29,10 @@ IMPORTANT: Make sure that you have the goodhealth.txt file in the same directory
 
 # References
 [Wikipedia - Jaccard Distance](http://en.wikipedia.org/wiki/Jaccard_index)
-[Dataset Link](https://archive.ics.uci.edu/ml/datasets/Health+News+in+Twitter)
+[Dataset UCI Direct Source Link](https://archive.ics.uci.edu/ml/datasets/Health+News+in+Twitter)
 
-Libraries utilized:
+
+---
+
+# Libraries utilized:
 re — Regular expression operations
